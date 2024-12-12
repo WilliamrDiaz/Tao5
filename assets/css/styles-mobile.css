@@ -60,18 +60,10 @@
         height: 25px;
         left: 300px;
     }
-
-    a {
-        font-size: 16px;
-    }    
+  
 }
 
 @media (max-width: 480px) {
-
-    a {
-        font-size: 14px;
-    }
-
     body {
         font-size: 18px;
     }
