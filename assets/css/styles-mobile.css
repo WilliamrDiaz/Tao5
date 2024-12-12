@@ -40,8 +40,9 @@
     }
 
     .content{
-        max-width: 300px;
-        left: 5px;
+        max-width: 400px;
+        padding: 1px;
+        left: 10px;
     }
 
     .imgL {
@@ -108,8 +109,9 @@
     }
 
     .content{
-        max-width: 300px;
-        left: 5px;
+        max-width: 400px;
+        padding: 1px;
+        left: 10px;
     }
 
     .imgL {
