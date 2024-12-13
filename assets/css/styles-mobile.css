@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     body {
         font-size: 18px;
     }
@@ -27,11 +27,11 @@
     }
 
     button{
-        left: 30px;
+        left: 20px;
     }
 
     .back{
-        left: 60px;
+        left: 45px;
     }
 
     .body{
@@ -41,8 +41,8 @@
 
     .content{
         max-width: 400px;
-        padding: 1px;
-        left: 10px;
+        padding: 10px;
+        left: 5px;
     }
 
     .imgL {
@@ -63,7 +63,7 @@
   
 }
 
-@media (max-width: 480px) {
+@media (max-width: 900px) {
     body {
         font-size: 18px;
     }
@@ -74,7 +74,7 @@
 
     button{
         font-size: 18px;
-        left: 30px;
+        left: 20px;
     }
     
     input{
@@ -92,7 +92,7 @@
     }
 
     .back{
-        left: 60px;
+        left: 45px;
     }
 
     .body{
@@ -102,8 +102,8 @@
 
     .content{
         max-width: 400px;
-        padding: 1px;
-        left: 10px;
+        padding: 10px;
+        left: 5px;
     }
 
     .imgL {
