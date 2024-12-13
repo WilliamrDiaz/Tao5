@@ -100,7 +100,6 @@ button {
     position: relative;
     width: 120px;
     height: 47px;
-    top: 10px;
     left: -85px;
     background-color: white;
     color: black;
@@ -193,7 +192,6 @@ strong{
     position: relative;
     width: 88px;
     height: 28px;
-    top: 10px;
     left: -55px;
 
     font-family: 'Times New Roman', serif;
